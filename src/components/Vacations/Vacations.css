@@ -1,0 +1,51 @@
+.vacations 
+{
+  border-radius: 3px;
+  border-left: 5px solid #E4F642;
+  background-color: #fff;
+  margin-bottom: 60px;
+  margin-top: 50px;
+  margin-left : 20%;
+  margin-right: 20%;
+  height: 280px;
+  padding-left: 10px;
+}
+
+.vacations img {
+  width: 300px;
+  height: 200px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.vacations-tag {
+  border-radius: 3px;
+  border-top: 5px solid #E4F642;
+  background-color: #fff;
+  margin-bottom: 60px;
+  margin-left : 20%;
+  margin-right: 20%;
+  height: 280px;
+  padding-left: 10px;
+
+}
+
+.cards{
+padding-top: 40px;
+  width: 300px;
+  height: 200px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;	
+}
+
+.heading
+{
+	margin-left: 40%;
+	font-size: 30px;
+}
+
+.containers{
+
+	display: flex;
+	flex-flow: row wrap;
+}

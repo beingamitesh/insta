@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Local Install
+
+* Clone the project
+
+```sh
+git clone https://github.com/beingamitesh/insta.git
+```
+```sh
+cd insta
+```
+
+* Run the project
+
+```sh
+npm start
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
